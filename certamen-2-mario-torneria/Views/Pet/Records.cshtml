@@ -1,0 +1,111 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model certamen_2_mario_torneria.Models.ViewModels.PetViewModel;
+
+
+<div class="container-fluid">
+            <div class="d-block text-center m-5">
+            </div>
+</div>
+<div class="container-fluid">
+
+            <div class="d-block blockquote text-center m-5">
+                <h3>@ViewData["titulo"]</h3>
+            </div>
+            <div class="card mb-1">
+                <div class="card-header">
+                    Filtrar
+                </div>
+                <div class="card-body">
+                    <form action="/Pet/FindPet" method="GET">
+                        <div class="row mb-3">
+                            <div class="col-1">
+                                <label>Tipo:</label>
+                            </div>
+                            <div class="col-3">
+                                <select class="form-control d-inline-block" name="petTypeFind">
+                                    @foreach(var item in Model.TypoPet)
+                                    {
+                                        <option>@item</option>
+                                    }
+                                </select>
+                            </div>
+                            <div class="col-2">
+                                <label>Nombre: </label>
+                            </div>
+                            <div class="col-3">
+                                <input id="NamePetTextSpace" type="text" name="NamePet"/>
+                            </div>
+                         
+
+                            <div class="col-1">
+                                <input type="hidden" value="@ViewData["pettype"]" name="petTypeFind" />
+                                    <div class="row">
+                                        <div class="col-5 text-right">
+                                            <button type="submit" class="btn btn-dark m-1">Buscar</button>
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>   
+
+
+                        </form>
+            @if (Model != null)
+            {
+                <table class="table table-hover">
+                    <thead class="thead-light">
+                        <tr>
+                            <th>
+                                Nombre Mascota
+                            </th>
+                            <th>
+                                Tipo Mascota
+                            </th>
+                            <th>
+                                Nombre Dueño
+                            </th>
+                            <th>
+                                Telefono Dueño
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach(var item in Model.Pets)
+                        {
+                            <tr>
+                                <td>@item.NamePet</td>
+                                <td>@item.PetType</td>
+                                <td>@item.NameOwner</td>
+                                <td>+56 9 @item.PhoneOwner</td>
+                                
+                            </tr>
+                        }
+                    </tbody>
+
+                </table>
+                <div class="text-right">
+                    <p>@if(@Model.Pets.Count == 0)
+                        {
+                            <p>No existen mascotas registradas</p>
+                        }
+                        else
+                        {
+                            <p>Número total de mascotas: @Model.Pets.Count </p>
+                        }
+                </div>
+            }
+            else
+            {
+                <h5>No Existen Mascotas</h5>
+            }
+
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>

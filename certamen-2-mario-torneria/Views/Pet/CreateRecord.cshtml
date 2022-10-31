@@ -1,0 +1,63 @@
+﻿
+
+@model certamen_2_mario_torneria.Models.ViewModels.CreatePetViewModel
+<h3 class="text-center">@ViewData["titulo"]</h3>
+<div class="container-fluid d-flex justify-content-center">
+    
+    <form action="/Pet/SavePet" method="POST">
+        <div class="row">
+
+            <div class="col-6">
+
+                <div class="form-horizontal">
+                    <label for="namePet">Nombre de la Mascota </label>
+                    <input class="form-inline" type="text" minlength="3" maxlength="20" name="namePet" required>
+                </div>
+
+                <div class="form-horizontal">
+                    <label for="birthdayPet">Fecha de nacimiento </label>
+                    <input class="form-inline" type="date" name="birthdayPet" min="2000-01-01" max="@ViewData["dateMax"]">
+                </div>
+
+                <div class="form-horizontal">
+                    <label for="petType">Tipo</label>
+                    <select name="petType" class="form-control d-inline-block"  required>
+                        @foreach(string typoPet in Model.TyPet)
+                        {
+                        <option>@typoPet</option>
+                        }
+                    </select>
+                </div>
+
+ <!--               <div class="form-horizontal">
+                    <label for="dateRegister">Fecha de registro</label>
+                    <input class="form-inline" type="text" name="dateRegister" readonly="readonly" placeholder="@ViewData["date"]">
+                </div>
+-->
+            </div>
+
+
+
+            <div class="col-sm-6">
+
+                <div class="form-horizontal">
+                    <label for="nameOwner">Nombre del Dueño</label>
+                    <input class="form-inline" type="text" name="nameOwner" required>
+                </div>
+                <div class="form-horizontal">
+                    <label for="phoneOwner">Número del dueño +569</label>
+                    <input class="form-inline" type="number" name="phoneOwner" required placeholder=" 99 99 99 99">
+                </div>
+<!--                <div class="form-horizontal">
+                    <label for="idPet">ID registro:</label>
+                    <input class="form-inline" type="text" name="idPet" readonly="readonly" placeholder=@ViewData["ID"]>
+                </div>
+-->
+                <button type="submit" class="btn btn-dark m-1">Crear</button>
+            </div>
+
+        </div>
+
+
+    </form>
+</div>

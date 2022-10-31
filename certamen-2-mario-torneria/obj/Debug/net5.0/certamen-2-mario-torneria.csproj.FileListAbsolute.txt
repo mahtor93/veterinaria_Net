@@ -1,0 +1,82 @@
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\appsettings.json
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\certamen-2-mario-torneria.exe
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\certamen-2-mario-torneria.deps.json
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\certamen-2-mario-torneria.runtimeconfig.json
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\certamen-2-mario-torneria.runtimeconfig.dev.json
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\certamen-2-mario-torneria.dll
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\certamen-2-mario-torneria.pdb
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\certamen-2-mario-torneria.Views.dll
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\certamen-2-mario-torneria.Views.pdb
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.csproj.AssemblyReference.cache
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.AssemblyInfoInputs.cache
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.AssemblyInfo.cs
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.csproj.CoreCompileInputs.cache
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.RazorAssemblyInfo.cache
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.RazorAssemblyInfo.cs
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\scopedcss\bundle\certamen-2-mario-torneria.styles.css
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\staticwebassets\certamen-2-mario-torneria.StaticWebAssets.Manifest.cache
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.TagHelpers.input.cache
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.TagHelpers.output.cache
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.RazorCoreGenerate.cache
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.RazorTargetAssemblyInfo.cache
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.RazorTargetAssemblyInfo.cs
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.Views.pdb
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.dll
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\refint\certamen-2-mario-torneria.dll
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.pdb
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.genruntimeconfig.cache
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\ref\certamen-2-mario-torneria.dll
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.csproj.CopyComplete
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\Pet\CreateRecord.cshtml.g.cs
+C:\Users\Metatron\Desktop\Proyectos VS\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\Pet\Records.cshtml.g.cs
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\appsettings.json
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\certamen-2-mario-torneria.exe
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\certamen-2-mario-torneria.deps.json
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\certamen-2-mario-torneria.runtimeconfig.json
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\certamen-2-mario-torneria.runtimeconfig.dev.json
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\certamen-2-mario-torneria.dll
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\certamen-2-mario-torneria.pdb
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\certamen-2-mario-torneria.Views.dll
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\bin\Debug\net5.0\certamen-2-mario-torneria.Views.pdb
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.csproj.AssemblyReference.cache
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.AssemblyInfoInputs.cache
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.AssemblyInfo.cs
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.csproj.CoreCompileInputs.cache
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.RazorAssemblyInfo.cache
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.RazorAssemblyInfo.cs
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\scopedcss\bundle\certamen-2-mario-torneria.styles.css
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\staticwebassets\certamen-2-mario-torneria.StaticWebAssets.Manifest.cache
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.TagHelpers.input.cache
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.TagHelpers.output.cache
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.RazorCoreGenerate.cache
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\Pet\CreateRecord.cshtml.g.cs
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\Pet\Records.cshtml.g.cs
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.RazorTargetAssemblyInfo.cache
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.RazorTargetAssemblyInfo.cs
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.Views.pdb
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.dll
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\refint\certamen-2-mario-torneria.dll
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.pdb
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.genruntimeconfig.cache
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\ref\certamen-2-mario-torneria.dll
+C:\Users\Metatron\Downloads\certamen-2-mario-torneria\certamen-2-mario-torneria\certamen-2-mario-torneria\obj\Debug\net5.0\certamen-2-mario-torneria.csproj.CopyComplete
